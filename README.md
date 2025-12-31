@@ -56,17 +56,7 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 ![Sojib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sojib1217&show_icons=true&theme=react)
 
 <h3>My Using Tools</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
 
 
 
-- 🎓 Studying Mathematics at Mohammadpur Kendrio College
-- 💻 Learning Frontend Development
-- ⚛️ Working with React, JavaScript, HTML & CSS
-- 🌱 Always learning and improving
 
-📫 Email: sojibhasan1888@gmail.com
