@@ -1,6 +1,8 @@
-<img src="https://chatgpt.com/s/m_6954c07e0cf08191a3e5fd556e15caf7" alt="">
-### Hi, I'm Sojib Hossain 👋
 
+
+
+<img width="100%"  alt="github-banner-image" src="https://github.com/user-attachments/assets/3d471c78-f0e1-439c-b018-3ac5b1354cfb" />
+### Hi, I'm Sojib Hossain 👋
 - 🎓 Studying Mathematics at Mohammadpur Kendrio College
 - 💻 Learning Frontend Development
 - ⚛️ Working with React, JavaScript, HTML & CSS
