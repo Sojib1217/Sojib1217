@@ -13,13 +13,30 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 <li>I am motivated to grow by working on real-world projects and learning every day.</li>
 </ul>
 
-<h3>### Current Activities</h3>
+<h3>Current Activities</h3>
 <ul>
 <li>Learning Next.js to improve my frontend skills.  </li>
 <li>Working on ScholarStream, a platform where people can find scholarships from top university around the world and apply to them.</li>
 <li>Exploring more about Firebase and MongoDB for backend integration.</li>
 <li>Practicing responsive web design with HTML, CSS, and JavaScript.</li>
 </ul>
+
+<h3>Skills</h3>
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Backend / Database:**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <h3>My Using Tools</h3>
 <p>
