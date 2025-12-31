@@ -53,8 +53,8 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 
 <h3>GitHub Stats</h3>
 
-
-<img width="100%" alt="My Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sojibhasan&theme=react" />
+<img width="100%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sojib1217&show_icons=true&theme=react" />
+<img width="100%" alt="My Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Sojib1217&theme=react" />
 
 <h3>My Using Tools</h3>
 
