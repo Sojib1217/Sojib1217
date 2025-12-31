@@ -51,6 +51,10 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 
 
 
+<h3>GitHub Stats</h3>
+
+![Sojib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sojibhasan&show_icons=true&theme=react)
+
 <h3>My Using Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
