@@ -2,7 +2,12 @@
 
 
 <img width="100%"  alt="github-banner-image" src="https://github.com/user-attachments/assets/3d471c78-f0e1-439c-b018-3ac5b1354cfb" />
-### Hi, I'm Sojib Hossain 👋
+<h3>Name & Designation</h3>
+## 👋 Hi, I'm Sojib Hossain
+
+**Frontend Developer (Beginner)**
+Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
+
 - 🎓 Studying Mathematics at Mohammadpur Kendrio College
 - 💻 Learning Frontend Development
 - ⚛️ Working with React, JavaScript, HTML & CSS
