@@ -1,6 +1,3 @@
-
-
-
 <img width="100%"  alt="github-banner-image" src="https://github.com/user-attachments/assets/3d471c78-f0e1-439c-b018-3ac5b1354cfb" />
 <h3>Name & Designation</h3>
 ## 👋 Hi, I'm Sojib Hossain
@@ -16,6 +13,10 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 <li>I am motivated to grow by working on real-world projects and learning every day.</li>
 </ul>
 
+<h3>My Using Tools</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
 
 
 
