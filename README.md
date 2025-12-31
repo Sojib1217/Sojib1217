@@ -13,9 +13,19 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 <li>I am motivated to grow by working on real-world projects and learning every day.</li>
 </ul>
 
+<h3>### Current Activities</h3>
+<ul>
+<li>Learning Next.js to improve my frontend skills.  </li>
+<li>Working on ScholarStream, a platform where people can find scholarships from top university around the world and apply to them.</li>
+<li>Exploring more about Firebase and MongoDB for backend integration.</li>
+<li>Practicing responsive web design with HTML, CSS, and JavaScript.</li>
+</ul>
+
 <h3>My Using Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 
