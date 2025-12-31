@@ -35,7 +35,8 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 **Backend / Database:**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -43,6 +44,9 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 ![React npm](https://img.shields.io/badge/React_NPM-61DAFB?style=for-the-badge&logo=npm&logoColor=white)
 
 
+<h3>Social Links</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibhasan1888@gmail.com) 
 <h3>My Using Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
