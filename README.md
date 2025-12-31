@@ -7,8 +7,8 @@ Building user-friendly web interfaces using HTML, CSS, JavaScript, and React.
 
 <h3>About Me</h3>
 <ul>
-<li>I am currently studying Mathematics at Mohammadpur Kendrio College.</li>
-<li>I am learning frontend development and have experience with HTML, CSS, JavaScript, React, Firebase, and basic MongoDB.</li>
+<li>🎓 I am currently studying Mathematics at Mohammadpur Kendrio College.</li>
+<li>💻 I am learning frontend development and have experience with HTML, CSS, JavaScript, React, Firebase, and basic MongoDB.</li>
 <li>I am also learning Next.js to expand my skills.</li>
 <li>I am motivated to grow by working on real-world projects and learning every day.</li>
 </ul>
